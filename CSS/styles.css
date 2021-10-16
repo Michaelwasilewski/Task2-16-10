@@ -58,4 +58,31 @@ footer {
     margin: 0 auto;
     background-color: #315fa4;
   }
+  .container {
+    margin: 0 auto;
+    width: 987px;
+  }
+  .column {
+    display: inline-block;
+    margin: 20px 0px 20px 0px;
+  }
+  .box1 {
+    background-color: #ca1dcd;
+    height: 220px;
+    width: 652px;
+    margin-right: 20px;
+  }
+  .box2 {
+    background-color: #ca1dcd;
+    height: 220px;
+    width: 315px;
+    float: right;
+  }
+  footer {
+    margin: 0 auto;
+    background-color: #c01887;
+    height: 172px;
+    width: 987px;
+    margin-top: -4px;
+  }
 }
